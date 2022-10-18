@@ -9,12 +9,12 @@
 	<div id="main-content">
 		<h1>Measurement Conversion</h1>
 		<ul id="measurement-types">
-			<li><a href="length.php">Length and Distance</a></li>
-			<li><a href="area.php">Area</a></li>
-			<li><a href="volume.php">Volume and Capacity</a></li>
-			<li><a href="mass.php">Mass and Weight</a></li>
-			<li><a href="speed.php">Speed</a></li>
-			<li><a href="temperature.php">Temperature</a></li>
+        <li><a type="button" class="btn btn-info" href="length.php" role="button">Length and Distance</a></li>
+        <li><a type="button" class="btn btn-info" href="area.php" role="button">Area</a></li>
+        <li><a type="button" class="btn btn-info" href="volume.php" role="button">Volume and Capacity</a></li>
+        <li><a type="button" class="btn btn-info" href="mass.php" role="button">Mass and Weight</a></li>
+        <li><a type="button" class="btn btn-info" href="speed.php" role="button">Speed</a></li>
+        <li><a type="button" class="btn btn-info" href="temperature.php" role="button">Temperature</a></li>
 		</ul>
 	</div>
 </body>
